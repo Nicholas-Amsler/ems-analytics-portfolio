@@ -61,9 +61,9 @@ Welcome! I'm a Clinical Manager of Onboarding for a national critical care fligh
 ---
 
 ## 👋 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOURNAMEHERE)
-- 🌐 [Portfolio Site](https://yournotionlinkhere.com)
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/nicholas-amsler)
+- 🌐 [Portfolio Site](https://yournotionlinkher)
+- 📬 Email: amsler.nicholas@gmail.com
 
 ---
 
